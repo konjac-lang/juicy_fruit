@@ -1,6 +1,6 @@
-# Juicy Fruit - Jelly VM Debugger
+# Juicy Fruit
 
-WebSocket-based debugger interface for the Jelly Virtual Machine.
+A WIP JavaScript based compiler for the Konjac Programming Language and a WebSocket-based debugger interface for the Jelly Virtual Machine.
 
 ## Quick Start
 
