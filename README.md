@@ -1,6 +1,6 @@
 # Juicy Fruit
 
-A WIP JavaScript based compiler for the Konjac Programming Language and a WebSocket-based debugger interface for the Jelly Virtual Machine.
+A WIP JavaScript based compiler for the Konjac Programming Language and a WebSocket-based debugger interface for the X Virtual Machine.
 
 ## Quick Start
 
